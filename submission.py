@@ -1,6 +1,4 @@
 """
-PER ED DISCUSSION TOTP LIBRARY IS ALLOWED https://edstem.org/us/courses/67775/discussion/5671824
-and qrcode/pillow library
 https://datatracker.ietf.org/doc/html/rfc6238
 https://github.com/google/google-authenticator/wiki/Key-Uri-Format
 https://pyauth.github.io/pyotp/
